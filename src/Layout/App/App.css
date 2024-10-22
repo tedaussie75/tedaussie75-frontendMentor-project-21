@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  max-width: 900px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.gradient-button:hover {
+  background: linear-gradient(90deg, #ff386d 11%, #ff6257 43%, #ff8957 97%) !important;
+  box-shadow: -5px 10px 25px hsla(4, 100%, 67%, 0.4);
+}
