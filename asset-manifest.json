@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tedaussie75-frontendMentor-project-21/static/css/main.34570ecc.css",
-    "main.js": "/tedaussie75-frontendMentor-project-21/static/js/main.ed447a7c.js",
+    "main.css": "/tedaussie75-frontendMentor-project-21/static/css/main.ce898d15.css",
+    "main.js": "/tedaussie75-frontendMentor-project-21/static/js/main.da607953.js",
     "static/js/453.26509373.chunk.js": "/tedaussie75-frontendMentor-project-21/static/js/453.26509373.chunk.js",
     "index.html": "/tedaussie75-frontendMentor-project-21/index.html",
-    "main.34570ecc.css.map": "/tedaussie75-frontendMentor-project-21/static/css/main.34570ecc.css.map",
-    "main.ed447a7c.js.map": "/tedaussie75-frontendMentor-project-21/static/js/main.ed447a7c.js.map",
+    "main.ce898d15.css.map": "/tedaussie75-frontendMentor-project-21/static/css/main.ce898d15.css.map",
+    "main.da607953.js.map": "/tedaussie75-frontendMentor-project-21/static/js/main.da607953.js.map",
     "453.26509373.chunk.js.map": "/tedaussie75-frontendMentor-project-21/static/js/453.26509373.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34570ecc.css",
-    "static/js/main.ed447a7c.js"
+    "static/css/main.ce898d15.css",
+    "static/js/main.da607953.js"
   ]
 }
